@@ -2,7 +2,7 @@
 
 Android 二维码扫码UI
 
-鉴于当前出现了微信扫码库、华为扫码统一服务 等 二维码解析库，且比原本的纯ZXing的二维码解析 识别率、识别速度有很明显的提升，所以有着将扫码库迁移到微信扫码库、华为扫码统一服务的需求，但是他们都是没有扫码UI的，故创建`QrCodeScanUI`，将**[BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)**和**[ZXingLite](https://github.com/jenly1314/ZXingLite)**中的扫码UI独立抽离取来，使其能独立使用，从而对接其他的扫码解析库。  
+鉴于当前出现了微信扫码库、华为扫码统一服务 等 二维码解析库，且比原本的纯ZXing的二维码解析 识别率、识别速度有很明显的提升，所以有着将扫码库迁移到微信扫码库、华为扫码统一服务的需求，但是他们都是没有扫码UI的，故创建`QrCodeScanUI`，将 **[BGAQRCode-Android ](https://github.com/bingoogolapple/BGAQRCode-Android)**和 **[ZXingLite](https://github.com/jenly1314/ZXingLite)** 中的扫码UI独立抽离取来，使其能独立使用，从而对接其他的扫码解析库。  
 
 UI效果如下图所示
 
