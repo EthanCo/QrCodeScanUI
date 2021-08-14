@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/rim1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#C0C0C0" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.1"
+        android:background="#FF000000" />
+
+    <com.lib.scan.ViewfinderView
+        android:id="@+id/viewfinderView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cornerColor="@color/colorYellow"
+        app:cornerRectHeight="25dp"
+        app:cornerRectWidth="5dp"
+        app:frameColor="@color/transparent"
+        app:frameGravity="center"
+        app:frameHeight="@dimen/scan_rect_width"
+        app:framePaddingBottom="10dp"
+        app:frameWidth="@dimen/scan_rect_width"
+        app:gridHeight="0dp"
+        app:labelText=""
+        app:labelTextLocation="bottom"
+        app:labelTextSize="14sp"
+        app:labelTextWidth="180dp"
+        app:laserColor="@color/colorYellow"
+        app:laserStyle="line"
+        app:maskColor="#7F000000" />
+
+</FrameLayout>

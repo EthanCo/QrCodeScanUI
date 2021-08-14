@@ -1,0 +1,9 @@
+<resources>
+    <!--二维码界面-->
+    <dimen name="qrcode_info_height">60dp</dimen>
+    <dimen name="qrcode_input_code_height">40dp</dimen>
+    <dimen name="qrcode_input_code_margin">20dp</dimen>
+    <dimen name="qrcode_flight_margin">30dp</dimen>
+    <dimen name="scan_rect_width">263dp</dimen>
+
+</resources>
