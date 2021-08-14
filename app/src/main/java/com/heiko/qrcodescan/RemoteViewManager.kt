@@ -1,4 +1,4 @@
-package com.heiko.scan
+package com.heiko.qrcodescan
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

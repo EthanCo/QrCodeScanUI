@@ -10,7 +10,6 @@ import androidx.appcompat.app.AppCompatActivity
 import com.heiko.qrcodescan.databinding.ActivityScanTest2Binding
 import com.huawei.hms.hmsscankit.RemoteView
 import com.huawei.hms.ml.scan.HmsScan
-import com.heiko.scan.RemoteViewManager
 
 /**
  * 扫码库 样式二
