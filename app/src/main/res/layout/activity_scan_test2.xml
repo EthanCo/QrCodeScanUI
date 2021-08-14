@@ -19,7 +19,7 @@
         android:alpha="0.1"
         android:background="#FF000000" />
 
-    <com.lib.scan.ScanBoxView
+    <com.heiko.scan.ScanBoxView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"

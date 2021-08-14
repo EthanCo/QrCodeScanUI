@@ -1,4 +1,4 @@
-package com.lib.scan
+package com.heiko.scan
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

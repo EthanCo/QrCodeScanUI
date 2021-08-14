@@ -1,4 +1,4 @@
-package com.lib.scan;
+package com.heiko.scan;
 
 import android.content.Context;
 import android.graphics.Bitmap;

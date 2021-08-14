@@ -1,4 +1,4 @@
-package com.lib.scan;
+package com.heiko.scan;
 /*
  * Copyright (C) 2008 ZXing authors
  *

@@ -1,4 +1,4 @@
-package com.lib.scan
+package com.heiko.scan
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

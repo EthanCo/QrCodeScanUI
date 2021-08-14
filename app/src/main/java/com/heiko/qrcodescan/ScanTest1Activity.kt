@@ -1,6 +1,5 @@
 package com.heiko.qrcodescan
 
-import android.app.Activity
 import android.graphics.Rect
 import android.os.Bundle
 import android.text.TextUtils
@@ -11,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.heiko.qrcodescan.databinding.ActivityScanTest1Binding
 import com.huawei.hms.hmsscankit.RemoteView
 import com.huawei.hms.ml.scan.HmsScan
-import com.lib.scan.RemoteViewManager
+import com.heiko.scan.RemoteViewManager
 
 /**
  * 扫码库样式一

@@ -20,7 +20,7 @@
         android:alpha="0.1"
         android:background="#FF000000" />
 
-    <com.lib.scan.ViewfinderView
+    <com.heiko.scan.ViewfinderView
         android:id="@+id/viewfinderView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
